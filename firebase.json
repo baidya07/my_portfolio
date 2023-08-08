@@ -1,7 +1,6 @@
 {
   "hosting": {
     "site": "bibekbaidya",
-    "public": "public",
     "source": ".",
     "ignore": [
       "firebase.json",
