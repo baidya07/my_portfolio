@@ -1,5 +1,5 @@
-import 'package:bibek_baidya/widgets/navigation_bar/navbar_logo.dart';
 import 'package:flutter/material.dart';
+import 'package:my_portfolio/widgets/navigation_bar/navbar_logo.dart';
 
 
 class NavBarMobile extends StatelessWidget {

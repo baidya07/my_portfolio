@@ -1,6 +1,6 @@
-import 'package:bibek_baidya/widgets/navigation_bar/navbar_item.dart';
-import 'package:bibek_baidya/widgets/navigation_bar/navbar_logo.dart';
 import 'package:flutter/material.dart';
+import 'package:my_portfolio/widgets/navigation_bar/navbar_item.dart';
+import 'package:my_portfolio/widgets/navigation_bar/navbar_logo.dart';
 
 class NavBarTabletDesktop extends StatelessWidget {
   const NavBarTabletDesktop({Key? key}) : super(key: key);
